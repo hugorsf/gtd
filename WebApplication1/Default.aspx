@@ -4,7 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1>GGI</h1>
+                <h1>GTD</h1>
                 <h2>Cadastro de Concessionárias e Permissionárias do Setor Elétrico </h2>
             </hgroup>
             <p>

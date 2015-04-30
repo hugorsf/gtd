@@ -175,6 +175,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="DistribuicaoCompleto.aspx" />
+    <Content Include="TransmissaoResumo.aspx" />
     <Content Include="GeracaoCompleto.aspx" />
     <Content Include="DistribuicaoResumo.aspx" />
     <Content Include="GeracaoResumo.aspx" />
@@ -279,6 +280,13 @@
     <Compile Include="DistribuicaoCompleto.aspx.cs">
       <DependentUpon>DistribuicaoCompleto.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TransmissaoResumo.aspx.cs">
+      <DependentUpon>TransmissaoResumo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TransmissaoResumo.aspx.designer.cs">
+      <DependentUpon>TransmissaoResumo.aspx</DependentUpon>
     </Compile>
     <Compile Include="GeracaoCompleto.aspx.cs">
       <DependentUpon>GeracaoCompleto.aspx</DependentUpon>
