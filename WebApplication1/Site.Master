@@ -32,8 +32,8 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul>
-                                <li><a id="registerLink" runat="server" href="~/Account/Register"></a></li>
-                                <li><a id="loginLink" runat="server" href="~/Account/Login">Log in</a></li>
+                               <!-- <li><a id="registerLink" runat="server" href="~/Account/Register"></a></li>
+                                <li><a id="loginLink" runat="server" href="~/Account/Login">Log in</a></li>-->
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
@@ -50,8 +50,8 @@
                     <ul id="menu">
                         <li><a runat="server" href="~/">Home</a></li>
                         <li><a href="GeracaoResumo">Geração</a> </li>
-                        <li><a href="DistribuicaoResumo">Distribuiçao</a></li>
-                        <li><a href="Contact">Transmissão</a></li>
+                        <li><a href="DistribuicaoResumo">Distribuição</a></li>
+                        <li><a href="TransmissaoResumo">Transmissão</a></li>
                     </ul>
                 </nav>
             </div>
